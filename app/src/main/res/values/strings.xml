@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaskBasic</string>
+    <string name="progr_s">Progrés</string>
+    <string name="sense_fils">Sense fils</string>
+    <string name="amb_fil">Amb fil</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
